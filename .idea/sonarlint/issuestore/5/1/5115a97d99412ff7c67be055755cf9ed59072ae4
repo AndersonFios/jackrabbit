@@ -1,0 +1,21 @@
+
+h	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(ë›üÄúÿÿÿÿ8Ô¥ó›¯1
+p
+java:S1192"NUse already-defined constant 'USERNAME' instead of duplicating its value here.(¹ŞëÔüÿÿÿÿ8Õ¥ó›¯1
+k
+java:S1192‰"MDefine a constant instead of duplicating this literal "my:documents" 3 times.(İÏ€Î8Õ¥ó›¯1
+]
+java:S1854c"@Remove this useless assignment to local variable "namespaceURI".(œ­Ë8Ô§ğ©¯1
+e
+java:S1854a"CRemove this useless assignment to local variable "ebookNodeSearch".(œª¢íıÿÿÿÿ8÷¥ó›¯1
+]
+java:S1854+"@Remove this useless assignment to local variable "valueFactory".(¨ËÖ8÷¥ó›¯1
+G	java:S106"+Replace this use of System.out by a logger.(˜¾¸û8ù¥ó›¯1
+N
+java:S1481+"1Remove this unused "valueFactory" local variable.(¨ËÖ8ü¥ó›¯1
+V
+java:S1481a"4Remove this unused "ebookNodeSearch" local variable.(œª¢íıÿÿÿÿ8‡¦ó›¯1
+N
+java:S1481c"1Remove this unused "namespaceURI" local variable.(œ­Ë8¥¨ğ©¯1
+c
+java:S1128"ARemove this unused import 'javax.jcr.security.AccessControlList'.(µÎ‚Åÿÿÿÿÿ8¦ó›¯1
